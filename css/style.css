@@ -1,0 +1,56 @@
+
+@import url(https://fonts.google.com/share?selection.family=Lora:ital@0;1%7CRoboto:ital,wght@0,100;0,400;0,500;1,100;1,400%7CSource%20Sans%20Pro:ital,wght@0,200;0,300;0,400;1,200) ;
+@import url("components/container.css") ;
+@import url("components/button.css") ;
+@import url("components/banner.css") ;
+@import url("components/card.css"); 
+
+body {  
+	background-color: #DEF5E5;
+	font-family: 'roboto', serif;
+	font-size: 16px ;
+	margin: 0px;
+} 
+
+h1 {
+	color:  #8EC3B0;
+	font-family: 'Source Sans Pro', sans-serif;
+	font-size: 40px;
+	font-weight: bolder;
+	letter-spacing: 2px;
+	margin: 40px;
+
+}
+
+h2 {
+	color: #9ED5C5;
+	font-family: 'Source Sans Pro', sans-serif;
+	font-size: 30px;
+	margin: 0px;
+}
+
+a {
+	text-decoration: none;
+	padding: 30px;
+	color: #9ED5C5;
+	font-family: 'Roboto', serif;
+	font-size: 15;
+	margin: 0px;
+}
+
+a:hover {
+	color: palegreen;
+}
+
+h4 {
+	color: white;
+	font-family: 'Source Sans Pro', sans-serif;
+	font-size: 20px;
+
+}
+
+img {
+	margin: 0px;
+}
+
+
